@@ -84,4 +84,3 @@ This project is intended for authorized lab and security research use only. Do n
 ## Author
 
 Raghav Vivekanandan  
-@ Ashtaksha Labs
